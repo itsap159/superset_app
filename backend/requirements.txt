@@ -1,0 +1,8 @@
+Flask
+requests
+pyjwt
+pymongo
+psycopg2
+python-dotenv
+flask-cors
+psycopg2-binary

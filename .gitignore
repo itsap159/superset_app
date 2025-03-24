@@ -1,0 +1,15 @@
+/backend/venv/
+__pycache__/
+/backend/.env
+/backend/uploads/
+/backend/output.csv
+/csv_uploader/node_modules/
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+# Node.js
+node_modules/
+build/
+dist/
