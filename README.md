@@ -100,15 +100,15 @@ npm install
 ```bash
 # From the backend directory with virtual environment activated
 python app.py
-The Flask backend will start on http://127.0.0.1:5000
 ```
+The Flask backend will start on http://127.0.0.1:5000
 
 ### 2. Start the Frontend
 ```bash
 # From the csv-uploader directory
 npm start
-The React frontend will start on http://localhost:3000
 ```
+The React frontend will start on http://localhost:3000
 
 ### 3. Ensure Databases are Running
 - Make sure MongoDB is running on the specified URI in your .env file
